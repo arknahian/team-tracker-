@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fff699bd.chunk.css",
+    "main.js": "/static/js/main.a012cc45.chunk.js",
+    "main.js.map": "/static/js/main.a012cc45.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f3b3c06f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f3b3c06f.js.map",
+    "static/js/2.9104940d.chunk.js": "/static/js/2.9104940d.chunk.js",
+    "static/js/2.9104940d.chunk.js.map": "/static/js/2.9104940d.chunk.js.map",
+    "static/js/3.65b7faf2.chunk.js": "/static/js/3.65b7faf2.chunk.js",
+    "static/js/3.65b7faf2.chunk.js.map": "/static/js/3.65b7faf2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.fff699bd.chunk.css.map": "/static/css/main.fff699bd.chunk.css.map",
+    "static/js/2.9104940d.chunk.js.LICENSE.txt": "/static/js/2.9104940d.chunk.js.LICENSE.txt",
+    "static/media/female.b8297964.png": "/static/media/female.b8297964.png",
+    "static/media/Header.css": "/static/media/football-stadium.86ee0e84.jpg",
+    "static/media/male.744fb8fa.png": "/static/media/male.744fb8fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3b3c06f.js",
+    "static/js/2.9104940d.chunk.js",
+    "static/css/main.fff699bd.chunk.css",
+    "static/js/main.a012cc45.chunk.js"
+  ]
+}
